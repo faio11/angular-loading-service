@@ -1,2 +1,2 @@
-# angular-loading-service
-Loading Service for Angular JS
+# Angular Loading Service
+A Loading Service for Angular JS
